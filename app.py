@@ -1,6 +1,5 @@
 from flask import Flask,jsonify
 
-
 app = Flask(__name__) # Flask constructor
 
 # A decorator used to tell the application
