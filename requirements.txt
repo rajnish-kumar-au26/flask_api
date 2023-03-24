@@ -145,7 +145,7 @@ itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
 jdcal @ file:///Users/ktietz/demo/mc3/conda-bld/jdcal_1630584345063/work
 jedi @ file:///tmp/build/80754af9/jedi_1644297102865/work
 jeepney @ file:///tmp/build/80754af9/jeepney_1627537048313/work
-Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
+Jinja2 @ 3.0.1
 jinja2-time @ file:///opt/conda/conda-bld/jinja2-time_1649251842261/work
 jmespath @ file:///Users/ktietz/demo/mc3/conda-bld/jmespath_1630583964805/work
 joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
